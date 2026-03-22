@@ -1,0 +1,12 @@
+beautifulsoup4>=4.12
+html5lib>=1.1
+ipykernel>=6.29
+jupyterlab>=4.2
+lxml>=5.3
+matplotlib>=3.9
+notebook>=7.2
+numpy>=2.1
+pandas>=2.2
+requests>=2.32
+scipy>=1.14
+seaborn>=0.13
