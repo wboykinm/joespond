@@ -9,7 +9,7 @@ Coordinates:
 
 Date range for daily exports:
 - Start: `1981-01-01`
-- End: `2026-03-13`
+- End: `2026-03-28`
 
 Required variables:
 - `tmean` (daily mean temperature)
